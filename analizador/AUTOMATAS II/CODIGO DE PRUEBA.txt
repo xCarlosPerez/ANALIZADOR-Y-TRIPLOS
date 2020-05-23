@@ -1,0 +1,10 @@
+class mayor{
+	public static void main(String [] args){
+		int q;
+		int e;
+		int w;
+		int z;
+		z= 5+5-3;
+
+		}
+}
